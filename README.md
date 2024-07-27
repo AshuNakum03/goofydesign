@@ -1,1 +1,2 @@
-# goofydesign
+# website
+Official website of goofydesign
